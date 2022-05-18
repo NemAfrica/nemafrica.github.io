@@ -3,7 +3,7 @@ title: Publication
 permalink: /publication/
 --- 
 
-## KEY PAPERs
+## KEY PAPERS
 
 
 - **Ochola, J., Cortada, L., Mwaura, O., Tariku, M., Christensen, S. A., Ng'ang'a, M., Hassanali, A., Pirzada, T., Khan, S., Pal, L., Mathew, R., Guenther, D., Davis, E., Sit, T., Coyne, D., and Opperman, C. 2022. Wrap-and-plant technology to manage sustainably potato cyst nematodes in East Africa. Nature Sustainability https://doi.org/10.1038/s41893-022-00852-5.**
