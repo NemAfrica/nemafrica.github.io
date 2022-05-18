@@ -4,7 +4,7 @@
 
 ![](../nemafrica.png)
 
-This webpage serves as a library of our publications, announcements of seminars for members within as well as promotions of our team for people who are interested in our work.
+This webpage serves as an archive of our publications, announcements of seminars for members within as well as promotions of our team for people who are interested in our work.
 
 - [Publication](./publication/)
 - [Activity](./activity/)
