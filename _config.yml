@@ -2,7 +2,8 @@
 # Site settings
 title: NemAfrica
 logo: /logo.png
-
+url: https://nemafrica.github.io
+twitter_username: @NemAfrica
 description: "We are the joint nematology research unit between IITA and ICIPE in Nairobi, Kenya."
 
 
