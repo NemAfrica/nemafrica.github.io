@@ -6,6 +6,7 @@ This webpage serves as a library of our publications, announcements of seminars 
 
 Contact K.Saikai@cgiar.org for more information.
 
+- [Publication](./publication/)
 - [Activity](./activity/)
 - [Seminar](./seminar/)
 
