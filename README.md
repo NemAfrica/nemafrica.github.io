@@ -1,4 +1,3 @@
-# Welcome to NemAfrica website
 
 **NemAfrica** is the joint nematology laboratory between International Institute of Tropical Agriculture (IITA) and International Centre of Insect Physiology and Ecology (ICIPE). We mainly work on plant parasitic nematodes as well as entomopathogenic nematodes for better livelihood of smallholder farmers in Sub-Saharan Africa. Please follow us on Twitter [@NemAfrica](https://twitter.com/NemAfrica) and [@DannyCoyne6](https://twitter.com/DannyCoyne6).
 
