@@ -9,6 +9,7 @@ This webpage serves as an archive of our publications, announcements of seminars
 - [Publication](./publication/)
 - [Activity](./activity/)
 - [Seminar](./seminar/)
+- [Media](./media/)
 - [Team](./team/)
 
 
