@@ -1,3 +1,6 @@
+---
+image: "./_images/home_pic.png"
+---
 
 Welcome!
 
