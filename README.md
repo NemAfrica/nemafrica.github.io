@@ -1,7 +1,3 @@
----
-layout: post
-image: "./_images/home_pic.png"
----
 
 Welcome!
 
