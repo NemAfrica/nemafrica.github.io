@@ -13,4 +13,4 @@ More information will be posted soon!
 
 ## Past seminar materials
 
-May 20th, 2022 - [click here to download](./_presentations/ExperimentalDesign_ByKananSaikai_NJC052022.pdf)
+May 20th, 2022 - [click here to download](./presentation/ExperimentalDesign_ByKananSaikai_NJC052022.pdf)
