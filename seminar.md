@@ -5,15 +5,12 @@ permalink: /seminar/
 
 ## Upcoming seminar is...
 
-## NJC: May 20th, 2022
+## NJC: May 27th, 2022
 
-Time: 14:00-15:00 Hrs, Nairobi(GMT+3)
+Topic: **Data analysis** by Eduardo Bendito and Siyabusa Mkuhlani
 
-Where: Vivarium and via Zoom 
-https://us02web.zoom.us/j/88176473481?pwd=b2dncnJwdjlXeHZHbVlVRTUwVG41QT09
+More information will be posted soon!
 
-Meeting ID: 881 7647 3481
+## Past seminar materials
 
-Passcode: 582063
-
-Topic: **Experimental Design** by Kanan Saikai
+May 20th, 2022 - [click here to download](./_presentations/ExperimentalDesign_ByKananSaikai_NJC052022.pdf)
