@@ -1,5 +1,5 @@
 ---
-image: "./_images/home_pic.png"
+image: "./_images/home_pic.jpg"
 ---
 
 Welcome!
