@@ -7,7 +7,7 @@ permalink: /seminar/
 
 ## NJC: May 27th, 2022
 
-Topic: **Data analysis** by Eduardo Bendito and Siyabusa Mkuhlani
+Topic: **Data analysis by Eduardo Bendito and Siyabusa Mkuhlani**
 
 More information will be posted soon!
 
