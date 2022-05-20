@@ -13,5 +13,5 @@ More information will be posted soon!
 
 ## Past seminar materials
 
-May 20th, 2022
+May 20th, 2022 **Experimental Design by Kanan Saikai**
 ([click here to download](./presentation/ExperimentalDesign_ByKananSaikai_NJC052022.pdf))
