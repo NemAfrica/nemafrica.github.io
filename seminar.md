@@ -9,7 +9,7 @@ permalink: /seminar/
 
 Topic: **Data analysis by Eduardo Bendito and Siyabusa Mkuhlani**
 
-Venue: posted soon
+Details will be posted soon!
 
 
 ## Past seminar materials
