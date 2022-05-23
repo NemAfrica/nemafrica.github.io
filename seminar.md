@@ -17,6 +17,6 @@ This is a three week **hands-on** workshop. The first part is given by Eduardo B
 
 ## Past seminar materials
 
-May 20th, 2022 **Experimental Design by Kanan Saikai**
+- May 20th, 2022 **Experimental Design by Kanan Saikai**
 ([Click here for the slide](./presentation/ExperimentalDesign_ByKananSaikai_NJC052022.pdf))
 ([Click here for the recording](https://us02web.zoom.us/rec/share/u7Bi82DvM2YIa8EWSie1A0ahgmDOne4daO6bxjVGpqnA1ZAiTdbhvw1WbYQSQyTg.xdr9Lyf-pNQ-DjoR))
