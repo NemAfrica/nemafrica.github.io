@@ -11,11 +11,6 @@ Topic: **Data analysis by Eduardo Bendito and Siyabusa Mkuhlani**
 
 Venue: posted soon
 
-Zoom link: https://us02web.zoom.us/j/88176473481?pwd=b2dncnJwdjlXeHZHbVlVRTUwVG41QT09
-
-Meeting ID: 881 7647 3481
-
-Passcode: 582063
 
 ## Past seminar materials
 
